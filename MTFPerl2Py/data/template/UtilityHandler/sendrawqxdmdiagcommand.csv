@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+sendrawqxdmdiagcommand,sendqxdmcommand,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+command,,command
+timeout,,fusion_port

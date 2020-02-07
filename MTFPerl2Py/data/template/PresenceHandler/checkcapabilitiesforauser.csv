@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkcapabilitiesforauser,checkcapabilitiesforauser,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,name
+,,capabilities
+,,im_session_support
+,,file_transfer_support

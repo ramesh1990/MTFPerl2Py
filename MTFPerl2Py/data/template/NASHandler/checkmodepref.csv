@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkmodepref,checkmodepref,checkmodepref_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,systems
+,,subs_id

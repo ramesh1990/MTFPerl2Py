@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+turnoncarrieraggregationports,turnoncarrieraggregationports,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,ca_set_name
+,,ports
+,,str1

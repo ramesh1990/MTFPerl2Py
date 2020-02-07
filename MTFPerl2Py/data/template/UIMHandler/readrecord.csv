@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+readrecord,readrecord,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+user_slot,,user_slot
+user_app_type,,user_app_type
+file_id,,file_id
+path_length,,path_length
+file_path,,file_path
+record,,record
+length,,length

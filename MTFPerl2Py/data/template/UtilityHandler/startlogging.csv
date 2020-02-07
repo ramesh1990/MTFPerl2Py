@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+startlogging,startlogging,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,filename
+,,qdss
+,,fusion_port
+,,summary
+,,visible

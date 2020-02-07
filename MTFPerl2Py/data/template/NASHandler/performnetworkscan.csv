@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+performnetworkscan,performnetworkscan,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,scan_type
+,,networks
+,,subs_id

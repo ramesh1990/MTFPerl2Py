@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+deactivatembn,deactivatembn,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+mbn_type,,mbntype
+subscription,,subs_id

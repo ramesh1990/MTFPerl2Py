@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+msleep,msleep,msleep_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,time
+,,hide

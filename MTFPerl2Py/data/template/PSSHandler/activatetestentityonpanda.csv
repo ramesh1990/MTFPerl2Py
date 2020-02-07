@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+activatetestentityonpanda,activatetestonpss,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,panda
+,,psstestid

@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+initiatemtsmsonice,initiatemtsmsonice,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+sms_payload,,sms_payload
+,,subs_id
+,,subs_id
+,,pcscf_id
