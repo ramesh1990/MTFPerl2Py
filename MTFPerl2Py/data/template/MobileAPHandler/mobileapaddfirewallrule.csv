@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+mobileapaddfirewallrule,mobileapaddfirewallrule,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+token,,token
+rules,,rules

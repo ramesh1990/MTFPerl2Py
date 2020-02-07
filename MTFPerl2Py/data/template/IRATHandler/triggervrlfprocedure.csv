@@ -1,0 +1,10 @@
+Perl.Keyword,Py.Keyword,Convertor
+triggervrlfprocedure,triggerrlfprocedure,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+source_ca_set,,source
+recovery_time,,recovery_type
+,,target
+,,oos_timeout
+,,recovery_time
+,,subs_id

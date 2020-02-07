@@ -1,0 +1,10 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitforimsaregistrationindication,waitforimsaregistrationindication,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+reg_status,,reg_status
+err_string,,reg_network
+reg_network,,subs_id
+timeout,,timeout
+,,subs_id
+,,ims_code

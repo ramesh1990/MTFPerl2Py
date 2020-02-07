@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+setimsssipconfig,setimsssipconfig,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,timer_t1
+,,timer_t1
+,,timer_t2
+,,timer_t2
+,,subs_id

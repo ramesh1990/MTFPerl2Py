@@ -1,0 +1,5 @@
+Perl.Keyword,Py.Keyword,Convertor
+disableims,disableims,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,subs_id

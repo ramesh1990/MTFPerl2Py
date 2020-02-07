@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitforimsasubscriptionstatusindication,waitforimsasubscriptionstatusindication,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+subscription_status,,subscription_status
+subscription_type,,subscription_type
+error_string,,timeout
+timeout,,subs_id

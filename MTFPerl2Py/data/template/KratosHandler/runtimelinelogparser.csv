@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+runtimelinelogparser,runtimelinelogparser,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+chipset,,
+log_tag,,

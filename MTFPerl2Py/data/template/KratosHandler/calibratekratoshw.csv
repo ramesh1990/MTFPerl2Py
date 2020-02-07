@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+calibratekratoshw,calibratekratoshw,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+type,,voltage
+,,current_limit
+,,ovp
+,,channel_config_file
+,,type

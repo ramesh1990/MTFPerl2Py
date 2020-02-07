@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkoosrecovery,waitforsystem,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+source,,systems
+recovery_time,,timeout
+target,,service_type
+rrc_state,,subs_id
+timeout,,camping_mode
+,,nsa_capable
+,,hideOnFail

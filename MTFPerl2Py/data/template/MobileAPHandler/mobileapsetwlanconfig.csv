@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+mobileapsetwlanconfig,mobileapsetwlanconfig,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+file_name,,config
+,,wlan_mode
+,,guest_ap_access_profile
+,,apstamode

@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+setimsclientprovisioning,setimsclientprovisioning,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,enable_client_provisioning
+,,enable_client_provisioning
+,,wifi_call
+,,wifi_call
+,,subs_id

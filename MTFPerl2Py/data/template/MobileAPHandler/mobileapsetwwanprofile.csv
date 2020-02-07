@@ -1,0 +1,10 @@
+Perl.Keyword,Py.Keyword,Convertor
+mobileapsetwwanprofile,mobileapsetwwanprofile,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+mode,,mode
+ip_type,,ip_type
+v4_3gpp_profile_id,,v4_3gpp_profile_id
+v4_3gpp2_profile_id,,v4_3gpp2_profile_id
+v6_3gpp_profile_id,,v6_3gpp_profile_id
+v6_3gpp2_profile_id,,v6_3gpp2_profile_id

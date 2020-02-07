@@ -1,0 +1,10 @@
+Perl.Keyword,Py.Keyword,Convertor
+carrieraggregationhandover,carrieraggregationhandover,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+source_ca_set,,source_ca_set
+target_ca_set,,target_ca_set
+source_step_size,,source_step_size
+time_between_steps,,sleep_between_atten
+skip_PCell_validation,,pcell_validation
+dest_step_size,,subs_id
