@@ -1,0 +1,16 @@
+Perl.Keyword,Py.Keyword,Convertor
+makemoqmivoicecall,makevoicecall,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,direction
+,,service_type
+,,call_type
+,,ip_header
+,,dial_string
+,,subs_id
+,,is_secure_call
+,,ims_server_type
+,,pcscf_id
+,,precondition
+,,operator
+,,timeout

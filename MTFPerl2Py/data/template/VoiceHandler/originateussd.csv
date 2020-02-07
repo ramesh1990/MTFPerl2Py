@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+originateussd,originateussd,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,technology
+,,dial_string
+,,subs_id

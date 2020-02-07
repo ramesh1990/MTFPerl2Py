@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+originatecallonice,originatecallonice,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,clientid
+,,subs_id
+,,pcscf_id
+,,vt_call
+,,ipv6

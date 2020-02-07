@@ -1,0 +1,12 @@
+Perl.Keyword,Py.Keyword,Convertor
+makeftavoicecall,makeftavoicecall,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+direction,,call_index
+technology,,direction
+service_type,,technology
+call_type,,Slot_id
+ip_header,,service_type
+dial_string,,call_type
+,,ip_header
+,,dial_string

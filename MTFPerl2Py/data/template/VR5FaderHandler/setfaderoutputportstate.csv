@@ -1,0 +1,14 @@
+Perl.Keyword,Py.Keyword,Convertor
+setfaderoutputportstate,setinterfereronspirent,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+port,,spirent_name
+state,,port
+,,port_type
+,,mode
+,,cton
+,,ebno
+,,brate
+,,nbw
+,,rbw
+,,autocal
