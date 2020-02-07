@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+starthandoverproceduretoeutranonboa,starthandovertoeutraonboa,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,boa_name
+,,imsi
+,,pci
+,,urnti
+,,enbid
+,,testsetid
+,,srcrat

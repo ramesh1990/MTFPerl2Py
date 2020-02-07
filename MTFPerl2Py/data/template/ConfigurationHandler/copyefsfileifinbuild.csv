@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+copyefsfileifinbuild,copyefssile,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+relpath,,
+efspath,,
+subsystem,,

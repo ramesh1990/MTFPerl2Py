@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+originatemtvoicecallonboa,startmtvoicecallonboa,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,boa_name
+,,imsi

@@ -1,0 +1,17 @@
+Perl.Keyword,Py.Keyword,Convertor
+starttcpdumpslog,starttcpdumpslog,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+interface,,size
+uename,,count
+,,file_size
+,,seconds
+,,interface
+,,tstamptype
+,,snaplen
+,,precision
+,,mode
+,,type
+,,filecount
+,,datalinktype
+,,user

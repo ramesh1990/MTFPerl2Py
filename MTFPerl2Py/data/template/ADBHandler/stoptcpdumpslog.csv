@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+stoptcpdumpslog,stoptcpdumpslog,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+interface,,interface
+uename,,
+timeout,,

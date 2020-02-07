@@ -1,0 +1,10 @@
+Perl.Keyword,Py.Keyword,Convertor
+validatefwdatcommand,validatefwdatcommand,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+dun_name,,atcommand
+atcommand,,cmd_result
+cmd_result,,response_type
+response_type,,timeout
+time_out,,at_resp_value
+,,at_resp

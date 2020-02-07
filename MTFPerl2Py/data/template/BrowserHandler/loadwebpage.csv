@@ -1,0 +1,12 @@
+Perl.Keyword,Py.Keyword,Convertor
+loadwebpage,startftaloadwebpage,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+url,,network_name
+filename,,url
+iterations,,filename
+progress_interval_step,,iterations
+browser_index,,progress_interval_step
+uename,,slot_id
+,,duration
+,,transfer_id

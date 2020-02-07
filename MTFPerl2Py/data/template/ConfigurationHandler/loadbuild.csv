@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+loadbuild,loadbuild,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+type,,type
+retry_load_build,,build
+,,memory_type
+,,update_image_script_path
+,,load_method
+,,verify_build
+,,type_meta_flattened

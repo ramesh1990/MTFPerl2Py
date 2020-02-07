@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+setwificalling,ftaconnecttowifi,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+state,,ssid
+,,check_internet_conn
+,,Hidden_ssid
+,,Hand_off
+,,uename

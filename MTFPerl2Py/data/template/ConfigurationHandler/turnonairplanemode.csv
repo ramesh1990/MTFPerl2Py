@@ -1,0 +1,5 @@
+Perl.Keyword,Py.Keyword,Convertor
+turnonairplanemode,turnonairplanemode,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,
