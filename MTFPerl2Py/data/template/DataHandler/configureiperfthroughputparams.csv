@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+configureiperfthroughputparams,iPerfValidateSession,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+expectedThroughput,,
+tolerent,,
+maxstddivation,,
+checkdatastall,,
+transfer_id,,
+OutlierIgnoreStart,,
+OutlierIgnoreEnd,,

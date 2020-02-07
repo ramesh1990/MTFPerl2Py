@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkdatabearertype,checkdatabearertype,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,service_type
+,,subs_id

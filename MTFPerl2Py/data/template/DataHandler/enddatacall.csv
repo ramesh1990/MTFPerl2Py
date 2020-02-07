@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+enddatacall,endembeddeddatacall and endrmnetcall,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+disable_autoconnect,,
+local_abort,,

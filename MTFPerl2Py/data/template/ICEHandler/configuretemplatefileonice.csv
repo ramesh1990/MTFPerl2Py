@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+configuretemplatefileonice,configuretemplatefileonice,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+template_file,,template_file
+,,timeout
+,,restart
+,,pcscf_id

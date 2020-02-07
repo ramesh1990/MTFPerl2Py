@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitforpmoperatingmode,waitforpmoperatingmode,waitforpmoperatingmode_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+ue_mode,ue_mode,ue_mode
+multisim_mode,multisim_mode,multisim_mode
+rat capability,rat_capability,rat_capability
+timeout,timeout,timeout
+,,subs_id

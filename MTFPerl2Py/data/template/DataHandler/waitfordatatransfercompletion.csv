@@ -1,0 +1,12 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitfordatatransfercompletion,iperfvalidatesession,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+timeout,,iperf_session_id
+transfer_id,,bandwidth
+,,metric
+,,pkt_loss
+,,tolerance
+,,duration
+,,num_reports_avrg
+,,start_on_report

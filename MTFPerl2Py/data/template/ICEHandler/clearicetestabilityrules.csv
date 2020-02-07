@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+clearicetestabilityrules,clearicetestabilityrules,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,nw_comp
+,,pcscf_id

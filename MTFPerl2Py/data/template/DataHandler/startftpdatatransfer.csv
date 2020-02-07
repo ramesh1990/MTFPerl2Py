@@ -1,0 +1,17 @@
+Perl.Keyword,Py.Keyword,Convertor
+startftpdatatransfer,startftaftp,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+duration,,network_name
+direction,,ftp_server
+ip_family,,direction
+type,,user_name
+transfer_id,,password
+destination_ipaddress,,file_name
+,,address_family
+,,tcp_window_size
+,,transfer_id
+,,timeout
+,,save_file_on_efs
+,,transfer_mode
+,,kernel_os
