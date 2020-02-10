@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkcnd,checkcnd,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+pid,,pid
+CNEService_PID,,CNEService_PID

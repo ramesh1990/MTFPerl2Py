@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-copyefsfile,copyefsfile,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-localpath,,efspath
-efspath,,file
-subsystem,,subs_id
-modem_type,,overwrite

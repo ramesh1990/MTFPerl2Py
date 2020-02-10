@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-validatembn,validatembn,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-mbn_type,,mbnname
-subscription,,subs_id
-,,remotepath

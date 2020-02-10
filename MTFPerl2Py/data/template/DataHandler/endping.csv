@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-endping,StopPing,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-checkresult,,
-maximunTimeOut,,
-failurerate,,
-transfer_id,,

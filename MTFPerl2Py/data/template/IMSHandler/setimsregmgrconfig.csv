@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setimsregmgrconfig,setimsregmgrconfig,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,ims_test_mode_enabled
-,,regmgr_primary_cscf
-,,subs_id

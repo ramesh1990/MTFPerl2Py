@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitforimsapdpstatusindication,waitforimsapdpstatusindication,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+is_ims_pdp_connected,,is_ims_pdp_connected
+ims_pdp_failure_error_code,,ims_pdp_failure_code
+timeout,,timeout
+,,subs_id

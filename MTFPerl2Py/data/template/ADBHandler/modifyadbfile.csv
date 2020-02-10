@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-modifyadbfile,modifyadbfile,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-filefullname,,source
-,,regex
-,,keywd
-,,force_local

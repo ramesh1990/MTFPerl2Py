@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+triggerssrwithoutwait,configuressr,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,subsys_name
+,,ssr_action

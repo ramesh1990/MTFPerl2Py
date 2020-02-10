@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-configuresmsreplyoption,configuresmsreplyoption,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,user_ack_req
-,,dak_req
-,,read_ack_req
-,,report_req
-,,subs_id

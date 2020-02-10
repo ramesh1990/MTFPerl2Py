@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setcellioronpanda,setioronpss,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,panda
-,,ior
-,,crrid
-,,cellid

@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-configureboarrcconnectionrelease,sendrrcreleaseonboa,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,boa_name
-,,imsi

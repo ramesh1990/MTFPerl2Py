@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-configureimsservertype,configureimsservertype,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,server_type
-,,ip_version
-,,subs_id

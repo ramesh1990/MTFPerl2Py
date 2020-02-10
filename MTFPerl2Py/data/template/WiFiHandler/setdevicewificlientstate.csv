@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setdevicewificlientstate,setftawificlientstate,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-status,,status
-uename,,uename

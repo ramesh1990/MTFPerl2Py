@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+calibraterfattenuator,generateuerxpowermeasurements,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+timeout,,test_equipment
+type,,config_file

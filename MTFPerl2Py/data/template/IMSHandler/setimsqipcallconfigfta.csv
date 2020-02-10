@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setimsqipcallconfigfta,setimsqipcallconfigfta,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-volte,,volte_enabled
-mobile_data,,videotelephony_enabled
-vt_calling,,mobile_data_enabled
-,,subs_id

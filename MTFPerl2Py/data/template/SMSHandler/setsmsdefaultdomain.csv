@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setsmsdefaultdomain,setsmsdefaultdomain,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,technology
-,,domian
-,,subs_id

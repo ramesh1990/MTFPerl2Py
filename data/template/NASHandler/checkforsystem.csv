@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkforsystem,waitforsystem,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,systems
+,,timeout
+,,service_type
+,,subs_id
+,,camping_mode
+,,nsa_capable
+,,hideOnFail

@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkgpsstate,checkgpsstate,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,state
+,,re_activate
+,,subs_id

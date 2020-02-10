@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-gpssingleshot,gpssingleshot,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,technology
-,,hot_start
-,,subs_id
-,,iot_enabled

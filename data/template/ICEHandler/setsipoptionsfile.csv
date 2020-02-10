@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+setsipoptionsfile,setsipoptionsfile,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+sip_path,,sip_path
+,,pcscf_id

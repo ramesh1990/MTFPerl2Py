@@ -1,0 +1,10 @@
+Perl.Keyword,Py.Keyword,Convertor
+mobileapsetlanconfig,mobileapsetlanconfig,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,gw_ip
+,,ap_subnet
+,,dhcp_enabled
+,,dhcp_start_ip
+,,dhcp_end_ip
+,,dhcp_lease_time

@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-addoptionalftalist,installcta,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,force
-,,fta_list
-,,cta_lnx

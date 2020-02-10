@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+releaseparticipantfromipconferencecall,releaseparticipantfromipconferencecall,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,participant_old_call_id
+,,conf_call_id
+,,subs_id

@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-checkmobileaproamingautoconnectstatus,checkmobileaproamingautoconnectstatus,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-expectedStatus,,expected_status

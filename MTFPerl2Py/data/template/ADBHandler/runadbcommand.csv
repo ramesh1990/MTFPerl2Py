@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-runadbcommand,runadbcommand,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-command,,command
-timeout,,timeout
-InSocket,,get_output
-ue_name,,verify_output

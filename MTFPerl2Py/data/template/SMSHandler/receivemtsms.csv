@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-receivemtsms,receivemtsms,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,Technology
-,,Transfer
-,,subs_id

@@ -1,0 +1,12 @@
+Perl.Keyword,Py.Keyword,Convertor
+startkratosacq,startkratosacq,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,output_dir
+,,calib_type
+,,voltage
+,,current_limit
+,,ovp
+,,channel_config_file
+,,power_id
+,,usb_id

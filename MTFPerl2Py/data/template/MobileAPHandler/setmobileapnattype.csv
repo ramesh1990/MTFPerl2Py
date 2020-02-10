@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setmobileapnattype,mobileapsetnattype,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-nat_type,,nat_type

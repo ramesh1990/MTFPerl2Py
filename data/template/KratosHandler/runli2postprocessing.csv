@@ -1,0 +1,10 @@
+Perl.Keyword,Py.Keyword,Convertor
+runli2postprocessing,rundbbddataparser,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+li2_template,,task_log_dir
+,,template_path
+,,test_case_path
+,,li2_template_path
+,,enable_intervals_breakdown
+,,wait_for_exit

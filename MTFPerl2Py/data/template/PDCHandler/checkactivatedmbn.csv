@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-checkactivatedmbn,checkactivatedmbn,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-mbn_name,,mbns
-mbn_type,,mbnname
-subscription,,mbntype
-,,subs_id

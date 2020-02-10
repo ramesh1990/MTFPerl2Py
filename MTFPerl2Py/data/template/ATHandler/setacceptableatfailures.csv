@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setacceptableatfailures,setacceptableatfailures,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,user_input
-,,command

@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setacceptablewmsfailures,setacceptablewmsfailures,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,failure_codes
-,,subs_id

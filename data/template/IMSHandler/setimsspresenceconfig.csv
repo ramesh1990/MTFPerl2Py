@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+setimsspresenceconfig,setimsspresenceconfig,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,publish_expiry_timer
+,,publish_expiry_timer
+,,capability_discover_enable
+,,capability_discover_enable
+,,subs_id

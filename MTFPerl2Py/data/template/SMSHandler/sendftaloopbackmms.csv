@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-sendftaloopbackmms,sendftaloopbackmms,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,payload
-,,media_file
-,,receive_timeout
-,,sub_id
-,,skip_receive

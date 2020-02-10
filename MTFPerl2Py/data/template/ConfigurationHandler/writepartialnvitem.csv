@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-writepartialnvitem,writepartialnvitem,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,nv_name
-,,value_dict
-,,subs_id

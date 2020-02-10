@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+setslotconfigurationnv,setslotconfigurationnv,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,config
+,,subs_id

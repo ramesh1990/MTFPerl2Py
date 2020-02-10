@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+savetemplateonltetbs,savetemplateparamonltetbs,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,handle
+,,new_template

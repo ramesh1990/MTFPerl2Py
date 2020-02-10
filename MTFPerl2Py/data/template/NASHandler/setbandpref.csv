@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setbandpref,setbandprefadvanced,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,band_pref
-,,lte_band_pref
-,,tdscdma_band_pref
-,,subs_id

@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+updatedevicesettings,updatedevicesettings,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+bluetooth_on,,elements
+screen_brightness_mode,,
+screen_off_timeout,,
+doze_enabled,,
+location_providers_allowed,,
+auto_time_zone,,
+auto_time,,

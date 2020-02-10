@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setupwcdmaonagilent,setupwcdmaonagilent,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,band
-,,uarfcn
-,,mcc
-,,mnc
-,,mode

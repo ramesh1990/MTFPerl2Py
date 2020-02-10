@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-waitforwcdmarrcstate,waitforwcdmarrcstate,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,desired_rrc_state
-,,timeout
-,,subs_id

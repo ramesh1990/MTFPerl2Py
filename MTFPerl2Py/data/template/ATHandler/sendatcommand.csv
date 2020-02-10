@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-sendatcommand,sendatcommand,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-dun_name,,atcommand
-atcommand,,timeout
-time_out,,expected_result
-expected_result,,

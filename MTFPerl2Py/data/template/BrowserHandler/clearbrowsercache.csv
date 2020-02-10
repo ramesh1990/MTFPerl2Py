@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-clearbrowsercache,clearbrowsercache,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-browser_index,,network_name
-uename,,transfer_id

@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setanritsugsmdisconnectonboa,disconnectgsmboxonboa,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,boa_name
-,,gsmtestsetid

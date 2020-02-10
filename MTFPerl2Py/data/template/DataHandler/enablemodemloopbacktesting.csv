@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-enablemodemloopbacktesting,configuremodemloopback,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-enable_disable,,mode
-cat,,replication_factor
-,,nr5g_only

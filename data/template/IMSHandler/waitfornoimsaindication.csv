@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitfornoimsaindication,waitfornoimsaindication,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+indication,,indication
+timeout,,timeout
+,,subs_id

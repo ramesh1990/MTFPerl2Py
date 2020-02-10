@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-sendrawcommandonapa,sendrawcommandonpa,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,cmd
-,,waittime

@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-deletedataprofiles,deletedataprofiles,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,profile_type
-,,profile_index
-,,profile_persistence_mask
-,,subs_id

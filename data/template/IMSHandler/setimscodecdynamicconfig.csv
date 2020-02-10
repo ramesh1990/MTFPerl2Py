@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+setimscodecdynamicconfig,setimscodecdynamicconfig,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,amr_wb_enabled
+,,amr_wb_enabled
+,,scr_amr_enabled
+,,scr_amr_enabled
+,,subs_id

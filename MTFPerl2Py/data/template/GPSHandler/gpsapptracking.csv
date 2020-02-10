@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-gpsapptracking,gpsapptracking,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,technology
-,,runTime
-,,QoSTime
-,,TBF
-,,subs_id

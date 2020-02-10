@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setbackhaulpriorityconfig,setbackhaulpriorityconfig,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,first
-,,second
-,,third
-,,fourth

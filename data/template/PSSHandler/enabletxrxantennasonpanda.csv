@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+enabletxrxantennasonpanda,setdiversityonpss,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,panda
+,,rxd
+,,txd

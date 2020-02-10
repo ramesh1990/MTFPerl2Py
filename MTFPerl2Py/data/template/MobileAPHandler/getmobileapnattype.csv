@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-getmobileapnattype,MobileAPGetNATType,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-nat_type,,

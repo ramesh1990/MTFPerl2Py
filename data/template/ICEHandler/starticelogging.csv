@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+starticelogging,starticelogging,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+sip_path,,filename_modifier
+,,target_dir
+,,timeout
+,,pcscf_id

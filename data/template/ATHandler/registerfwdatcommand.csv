@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+registerfwdatcommand,registerfwdatcommand,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,cmd_name_list
+,,command
+,,abort_flag

@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkforimsservicestatus,checkforimsservicestatus,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+sms_service_rat,,ims_services
+vt_service_rat,,dict1
+voip_service_rat,,sms
+ut_service_rat,,voip
+,,vt
+,,ut
+,,subs_id

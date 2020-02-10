@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-getcontactlistcapability,getcontactlistcapability,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,contact_list

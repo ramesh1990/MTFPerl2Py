@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+endftavoicecall,endftavoicecall,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+direction,,direction
+call_index,,call_index
+fta_call_type,,

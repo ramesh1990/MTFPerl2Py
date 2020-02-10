@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-stopplayingdeeprofile,disabledeeonspirent,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-timeout,,spirent_name

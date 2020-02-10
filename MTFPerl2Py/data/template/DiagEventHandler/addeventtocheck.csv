@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-addeventtocheck,addeventtocheck,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,queue_name
-,,event_name
-,,event_payload
-,,package_type

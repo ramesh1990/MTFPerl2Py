@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+selectandactivatembns,selectandactivatembn,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,mbnname
+,,subs_id
+,,mode

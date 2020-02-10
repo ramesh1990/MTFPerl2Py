@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-enabledisableupnp,ConfigureUpnp ,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-mode,,

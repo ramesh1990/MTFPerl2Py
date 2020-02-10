@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+disconnectfromwifi,ftadisconnectwifi,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+connection_id,,ssid
+uename,,uename

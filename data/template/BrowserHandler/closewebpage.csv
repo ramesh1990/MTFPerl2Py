@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+closewebpage,endftaloadwebpage,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+url,,network_name
+browser_index,,transfer_id
+uename,,

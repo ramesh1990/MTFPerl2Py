@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-windowshostaddwifi,windowshostaddwifi,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-filename,,filename
-interface,,interface
-user,,user

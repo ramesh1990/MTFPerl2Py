@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-waitfornonetworkprovisioningstatus,waitfornonetworkprovisioningstatus,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-status,,status
-timeout,,timeout
-,,subs_id

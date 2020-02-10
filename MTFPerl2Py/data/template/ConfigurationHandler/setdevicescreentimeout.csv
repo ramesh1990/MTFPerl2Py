@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setdevicescreentimeout,updatedevicesettings,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-timeout,,elements

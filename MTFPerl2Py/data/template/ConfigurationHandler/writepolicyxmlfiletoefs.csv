@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-writepolicyxmlfiletoefs,writepolicyxmlfiletoefs,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-path,,efs_path

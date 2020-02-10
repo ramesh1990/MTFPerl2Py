@@ -1,0 +1,12 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkvoicecallstate,checkvoicecalldetails,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,call_state
+,,call_type
+,,call_mode
+,,call_direction
+,,call_end_reason
+,,call_id
+,,call_index
+,,subs_id

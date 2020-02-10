@@ -1,6 +1,0 @@
-Owner,Perl.Keyword,Perl.Handler,Py.Keyword,Py.Handler,Param.Config
-jagdish,configuredee,VR5FaderHandler,ConfigureDEE,VR5FaderHandler,"{'class': 'generic_convertor', 'perl_params': ['dee_file', 'playback'], 'perl2py_params': {'dee_file': 'dee_file', 'playback': 'playback'}}"
-jagdish,loadconfigonfader,VR5FaderHandler,loadconnsetuponspirent,SpirentHandler,"{'class': 'generic_convertor', 'perl_params': ['config_file'], 'perl2py_params': {'config_file': 'config_file'}}"
-jagdish,msleep,UtilityHandler,msleep,Interpreter,"{'class': 'generic_convertor', 'perl_params': ['time'], 'perl2py_params': {'time': 'time'}}"
-jagdish,sendfadercommand,VR5FaderHandler,sendrawcommandonspirent,SpirentHandler,"{'class': 'generic_convertor', 'perl_params': ['vR5'], 'perl2py_params': {'vR5': 'vR5'}}"
-jagdish,startplayingdeeprofile,VR5FaderHandler,enabledeeonspirent,SpirentHandler,"{'class': 'generic_convertor', 'perl_params': ['timeout'], 'perl2py_params': {'timeout': 'timeout'}}"

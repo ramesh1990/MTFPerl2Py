@@ -1,0 +1,12 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitforimsaservicestatusindication,waitforimsaservicestatusindication,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+sms_service_rat,,ims_services
+voip_service_rat,,dict1
+vt_service_rat,,sms
+ut_service_rat,,voip
+,,vt
+,,ut
+,,timeout
+,,subs_id

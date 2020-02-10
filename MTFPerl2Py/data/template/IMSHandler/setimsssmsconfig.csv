@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setimsssmsconfig,setimssmsconfig,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,sms_format
-,,sms_format
-,,sms_over_ip_network_indication
-,,ms_over_ip_network_indication
-,,subs_id

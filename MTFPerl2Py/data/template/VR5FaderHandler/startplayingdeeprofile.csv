@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-startplayingdeeprofile,enabledeeonspirent,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-timeout,,spirent_name
-,,file_dir
-,,trig_mode
-,,play_mode
-,,loop_num

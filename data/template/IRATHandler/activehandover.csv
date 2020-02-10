@@ -1,0 +1,11 @@
+Perl.Keyword,Py.Keyword,Convertor
+activehandover,activehandover,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+source,,source
+target,,target
+source_dbc,,source_step_size
+target_dbc,,target_step_size
+interval,,sleep_between_atten
+rrc_state,,turn_off_source_after_mobility
+,,subs_id

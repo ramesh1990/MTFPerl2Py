@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+terminateloopbackclient,terminateloopbackclient,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,clientid
+,,pcscf_id

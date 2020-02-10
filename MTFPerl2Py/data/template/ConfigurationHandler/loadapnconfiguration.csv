@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-loadapnconfiguration,loadapnconfiguration,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-apns_conf_xml_location,,apns_conf_xml
-reset,,destination
-,,reset
-,,carrier
-,,options

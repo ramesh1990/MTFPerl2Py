@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-waitfororiginationcallstate,waitfororiginationcallstate,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,call_index
-,,duration
-,,subs_id

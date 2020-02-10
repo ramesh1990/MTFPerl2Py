@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-removenetworkfromfplmn,removenetworkfromfplmn,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,mcc
-,,mnc
-,,subs_id

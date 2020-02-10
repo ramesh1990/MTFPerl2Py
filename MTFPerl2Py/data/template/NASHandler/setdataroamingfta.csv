@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setdataroamingfta,mobileapsetroaming,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-data_roaming,,mode

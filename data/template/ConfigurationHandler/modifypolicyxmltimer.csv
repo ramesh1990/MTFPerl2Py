@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+modifypolicyxmltimer,modifypolicyxmlparameter,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+name,,element
+interval,,action
+units,,name
+id,,value

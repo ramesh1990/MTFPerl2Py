@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+mobileapgetfirewallconfig,mobileapgetfirewallconfig,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+mode,,mode
+packets_allowed,,packets_allowed

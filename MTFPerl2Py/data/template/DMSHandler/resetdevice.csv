@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-resetdevice,resetdevice,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,hard_reset
-,,handle_crash
-,,timeout_for_ue_state
-,,reset_timeout

@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+setfplmnlist,setfplmnlist,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,mcc
+,,mcn
+,,subs_id

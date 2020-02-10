@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-sendicetestabilitycommand,sendicetestabilitycommand,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-command,,cmd
-subscription,,pcscf_id
-ignoreresult,,subs_id

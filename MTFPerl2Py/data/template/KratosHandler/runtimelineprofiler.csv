@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-runtimelineprofiler,runtimelineprofiler,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-template,,
-log_data,,
-output_dir,,
-output_filename,,

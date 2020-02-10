@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-enableratoncmw,enableratoncmw,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,system

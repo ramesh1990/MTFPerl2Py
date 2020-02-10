@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setimsshandoverconfig,setimsshandoverconfig,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,wlan_to_wwan_hys_timer
-,,wlan_to_wwan_hys_timer
-,,ims_pdn_ho_enabled
-,,ims_pdn_ho_enabled
-,,subs_id

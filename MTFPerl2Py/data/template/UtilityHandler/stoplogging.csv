@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-stoplogging,stoplogging,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,fusion_port

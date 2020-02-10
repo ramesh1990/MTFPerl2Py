@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+waitforwificonnection,ftawaitforwificonnection,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+name,,ssid
+state,,timeout
+timeout,,ap_conn_status
+uename,,uename

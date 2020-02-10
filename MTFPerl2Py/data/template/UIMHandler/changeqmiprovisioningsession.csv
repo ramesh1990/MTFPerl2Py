@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-changeqmiprovisioningsession,changeprovisioningsession,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-user_slot,,user_slot
-user_app_type,,user_app_type
-session_type,,activate
-activate,,

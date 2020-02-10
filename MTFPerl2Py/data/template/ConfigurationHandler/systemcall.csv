@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-systemcall,runsystemcommand,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,command
-,,blocking
-,,timeout
-,,get_output
-,,verify_output

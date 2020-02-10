@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+sendagilentcommand,sendcommandonagilent,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,cmdstr
+,,cmdval
+,,valtype
+,,skipchk

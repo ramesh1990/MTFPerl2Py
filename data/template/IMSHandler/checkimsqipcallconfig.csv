@@ -1,0 +1,9 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkimsqipcallconfig,checkimsqipcallconfig,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,mobile_data_enabled
+,,mobile_data_enabled
+,,volte_enabled
+,,volte_enabled
+,,subs_id

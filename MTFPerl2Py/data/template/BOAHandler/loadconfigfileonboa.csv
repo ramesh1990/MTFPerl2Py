@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-loadconfigfileonboa,loadconfigfileonboa,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,boa_name
-,,txtdir

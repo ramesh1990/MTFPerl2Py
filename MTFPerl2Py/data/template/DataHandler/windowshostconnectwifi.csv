@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-windowshostconnectwifi,windowshostconnectwifi,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,name
-,,interface
-,,ssid
-,,timeout

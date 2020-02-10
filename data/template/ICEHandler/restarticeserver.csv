@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+restarticeserver,restarticeserver,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,timeout
+,,pcscf_id
+,,if_not_running

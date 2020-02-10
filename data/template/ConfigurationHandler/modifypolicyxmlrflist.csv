@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+modifypolicyxmlrflist,modifypolicyxmlparameter,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+action,,element
+band_list,,action
+band,,name
+value,,value

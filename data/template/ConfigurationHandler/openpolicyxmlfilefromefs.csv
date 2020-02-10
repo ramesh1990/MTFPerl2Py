@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+openpolicyxmlfilefromefs,modifypolicyxmlparameter,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+policyman,,element
+,,action
+,,name
+,,value

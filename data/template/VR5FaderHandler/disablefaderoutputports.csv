@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+disablefaderoutputports,disableportonspirent,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,spirent_name
+,,port
+,,port_type

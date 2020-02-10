@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-stopiceserver,stopiceserver,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,timeout
-,,pcscf_id

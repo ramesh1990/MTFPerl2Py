@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-loadmbndirectpath,"loadswmbn,loadhwmbn",generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,

@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-setoperatingmode,setoperatingmode,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,mode
-,,fusion_port

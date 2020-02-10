@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+configurekratospowersupply,configurekratospowersupply,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+power_id,,voltage
+voltage,,current_limit
+current_limit,,ovp
+ovp,,power_id

@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-publishnewdevicecapabilities,publishnewdevicecapabilities,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-domain,,capabilities
-capabilities,,im_session_support
-trigger,,file_transfer_support
-timeout,,domain

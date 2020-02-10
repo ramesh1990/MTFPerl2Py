@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+endcallonice,endcallonice,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,clientid
+,,subs_id
+,,pcscf_id

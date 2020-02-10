@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-addormodifytemplateparamonltetbs,modifytemplateparamonltetbs,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,handle
-,,path
-,,value

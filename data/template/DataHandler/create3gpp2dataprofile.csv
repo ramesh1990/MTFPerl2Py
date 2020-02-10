@@ -1,0 +1,15 @@
+Perl.Keyword,Py.Keyword,Convertor
+create3gpp2dataprofile,modifyorcreate3gpp2dataprofile,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,profile_name
+,,apn_name
+,,profile_index
+,,pdp_type
+,,emerg_calls
+,,apn_class
+,,rat_type
+,,profile_type
+,,pdn_type
+,,clat_enabled
+,,subs_id

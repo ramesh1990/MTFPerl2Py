@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-checkmobileapwwanstatus,checkmobileapwwanstatus,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-ip_type,,ip_type
-expected_status,,expected_status

@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-endftaping,endftaping,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-check_result,,network_name
-max_timeout,,transfer_id
-failure_rate,,check_result
-transfer_id,,maximum_timeout
-,,failure_rate

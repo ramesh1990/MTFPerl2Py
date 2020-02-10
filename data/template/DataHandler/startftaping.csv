@@ -1,0 +1,15 @@
+Perl.Keyword,Py.Keyword,Convertor
+startftaping,startftaping,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+ping_server,,network_name
+address_family,,ping_server_name
+packet_size,,server_addr
+ping_interval,,address_family
+total_TX_packet_nos,,packet_size
+rtt_packet_type,,ping_interval
+transfer_id,,total_TX_packet_nos
+,,rtt_packet_type
+,,transfer_id
+,,duration
+,,kernel_os

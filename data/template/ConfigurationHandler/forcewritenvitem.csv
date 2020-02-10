@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+forcewritenvitem,writenvitem,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,nv_name
+,,value_list
+,,subs_id

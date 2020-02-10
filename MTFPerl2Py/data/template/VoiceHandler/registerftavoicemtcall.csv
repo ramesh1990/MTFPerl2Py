@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-registerftavoicemtcall,registerftavoicemtcall,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-call_index,,call_index
-answer_option,,answer_option
-call_service_type,,call_service_type
-answer_timeout,,answer_timeout

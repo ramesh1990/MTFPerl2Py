@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-stopicelogging,stopicelogging,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-sip_path,,delete_remote_log_files
-,,timeout
-,,pcscf_id

@@ -1,0 +1,5 @@
+Perl.Keyword,Py.Keyword,Convertor
+setacceptablepresencefailures,setacceptablepresencefailures,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,expected_failure_codes

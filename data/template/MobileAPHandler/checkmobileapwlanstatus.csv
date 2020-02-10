@@ -1,0 +1,5 @@
+Perl.Keyword,Py.Keyword,Convertor
+checkmobileapwlanstatus,checkmobileapwlanstatus,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+expected_status,,expected_status

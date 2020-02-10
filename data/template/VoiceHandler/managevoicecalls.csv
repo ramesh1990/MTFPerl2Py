@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+managevoicecalls,managevoicecalls,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,sups_type
+,,call_index
+,,reject_cause
+,,subs_id

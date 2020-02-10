@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-settetheringmode,setftawifitetheringstate,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-interface_type,,state
-state,,
-ssid,,
-password,,

@@ -1,0 +1,5 @@
+Perl.Keyword,Py.Keyword,Convertor
+loadkratoschannelconfiguration,loadkratoschannelconfiguration,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+file,,file

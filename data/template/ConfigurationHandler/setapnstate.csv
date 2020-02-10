@@ -1,0 +1,6 @@
+Perl.Keyword,Py.Keyword,Convertor
+setapnstate,setapnstate,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+mode,,mode
+apn_type,,apn_type

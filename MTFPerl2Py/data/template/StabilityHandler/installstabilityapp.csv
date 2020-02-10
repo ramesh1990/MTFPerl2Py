@@ -1,7 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-installstabilityapp,installstabilityapp,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,source_dir
-,,local_install_dir
-,,map_file_path

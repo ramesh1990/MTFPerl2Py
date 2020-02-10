@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-mobileapgetfirewalltable,mobileapgetfirewalltable,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,file_name

@@ -1,6 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-enddatatransfer,stopiperf,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-transfer_id,,iperf_session_id
-verify_total_transfers,,

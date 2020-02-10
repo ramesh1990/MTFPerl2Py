@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+monitorconversationstate,monitorconversationstate,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,duration
+,,call_id
+,,subs_id

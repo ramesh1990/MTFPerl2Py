@@ -1,0 +1,7 @@
+Perl.Keyword,Py.Keyword,Convertor
+loadhwmbn,loadhwmbn,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,mbnpath
+,,mbnpath_from_build
+,,modem_type

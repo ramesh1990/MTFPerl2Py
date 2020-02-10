@@ -1,8 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-configurecallwaiting,configurecallwaiting,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,service
-,,service_class
-,,service_class_ext
-,,reason

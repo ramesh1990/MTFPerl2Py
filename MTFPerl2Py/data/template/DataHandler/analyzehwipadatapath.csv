@@ -1,9 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-analyzehwipadatapath,analyzehwipadatapath,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-interface,,interface
-direction,,direction
-threshold,,threshold
-,,sendmail
-,,recipients

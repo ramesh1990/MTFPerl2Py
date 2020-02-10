@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-switchdataprofile,setddsstate,switchdataprofile_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,subs_id

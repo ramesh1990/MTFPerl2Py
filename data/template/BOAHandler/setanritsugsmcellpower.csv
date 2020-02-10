@@ -1,0 +1,8 @@
+Perl.Keyword,Py.Keyword,Convertor
+setanritsugsmcellpower,changegsmboxpoweronboa,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,boa_name
+,,gsmtestsetid
+,,gsmcellid
+,,gsmcellpower

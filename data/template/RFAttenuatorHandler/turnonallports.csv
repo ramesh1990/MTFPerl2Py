@@ -1,0 +1,5 @@
+Perl.Keyword,Py.Keyword,Convertor
+turnonallports,turnonallports,generic_convertor
+,,
+Perl.Params,Perl2Py.ParamMap,Py.Params
+,,serial

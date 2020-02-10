@@ -1,5 +1,0 @@
-Perl.Keyword,Py.Keyword,Convertor
-endmtvoicecallonapa,endmtcallonpa,generic_convertor
-,,
-Perl.Params,Perl2Py.ParamMap,Py.Params
-,,esn
